@@ -1,0 +1,25 @@
+dependencies: \
+  /Users/xuyan/WebstormProjects/MovieTalk/node_modules/react-native/React/Executors/RCTJSCExecutor.mm \
+  /Users/xuyan/WebstormProjects/MovieTalk/node_modules/react-native/React/Executors/RCTJSCExecutor.h \
+  /Users/xuyan/WebstormProjects/MovieTalk/node_modules/react-native/React/Base/RCTJavaScriptExecutor.h \
+  /Users/xuyan/WebstormProjects/MovieTalk/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/xuyan/WebstormProjects/MovieTalk/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/xuyan/WebstormProjects/MovieTalk/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/xuyan/WebstormProjects/MovieTalk/ios/build/Build/Products/Debug-iphonesimulator/include/cxxreact/JSBundleType.h \
+  /Users/xuyan/WebstormProjects/MovieTalk/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JavaScriptCore.h \
+  /Users/xuyan/WebstormProjects/MovieTalk/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JSCWrapper.h \
+  /Users/xuyan/WebstormProjects/MovieTalk/node_modules/react-native/React/Modules/JSCSamplingProfiler.h \
+  /Users/xuyan/WebstormProjects/MovieTalk/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/xuyan/WebstormProjects/MovieTalk/node_modules/react-native/React/Base/RCTBridge+Private.h \
+  /Users/xuyan/WebstormProjects/MovieTalk/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/xuyan/WebstormProjects/MovieTalk/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/xuyan/WebstormProjects/MovieTalk/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/xuyan/WebstormProjects/MovieTalk/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/xuyan/WebstormProjects/MovieTalk/node_modules/react-native/React/Modules/RCTDevSettings.h \
+  /Users/xuyan/WebstormProjects/MovieTalk/node_modules/react-native/React/Base/RCTJSCErrorHandling.h \
+  /Users/xuyan/WebstormProjects/MovieTalk/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/xuyan/WebstormProjects/MovieTalk/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/xuyan/WebstormProjects/MovieTalk/node_modules/react-native/React/Base/RCTPerformanceLogger.h \
+  /Users/xuyan/WebstormProjects/MovieTalk/node_modules/react-native/React/Profiler/RCTProfile.h \
+  /Users/xuyan/WebstormProjects/MovieTalk/node_modules/react-native/React/Profiler/RCTJSCProfiler.h \
+  /Users/xuyan/WebstormProjects/MovieTalk/node_modules/react-native/React/Modules/RCTDevMenu.h
